@@ -1,3 +1,8 @@
 Hello World
 
+<<<<<<< HEAD
 This line is modified by chandana at 4:24PM
+=======
+
+This is new commit by Ravi on 16-04-2024 at 8:54 AM
+>>>>>>> 9f0659b (Ravi committed on 16-04-24 at 9 AM)
